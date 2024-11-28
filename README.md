@@ -1,2 +1,2 @@
-# Linked Lists are Dead!!
-# Long Live Array Block!!
+# Linked Lists Suck
+# Here's Why ArrayBlock Rules the Game
